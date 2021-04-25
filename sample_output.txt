@@ -1,0 +1,4 @@
+The goodies selected for distribution: 
+Cult Pass:2799
+Scale:4999
+And the differencebetween the chosen goodie with highest price and lowest price 2200
